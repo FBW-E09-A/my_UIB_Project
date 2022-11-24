@@ -516,6 +516,7 @@ form button:hover {
 .contact-details i {
   color: royalblue;
   font-size: 3rem;
+  margin-right: 1rem;
 }
 
 .contact-details div {
